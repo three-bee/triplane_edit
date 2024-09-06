@@ -47,3 +47,4 @@ Our codebase utilizes the following great works: [EG3D](https://github.com/NVlab
       primaryClass={cs.CV}
 }
 ```
+Copyright 2024 [Bilkent DLR](https://dlr.bilkent.edu.tr/). Licensed under the Apache License, Version 2.0 (the "License").
