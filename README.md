@@ -4,6 +4,8 @@
 
 [Bahri Batuhan Bilecen](https://three-bee.github.io), Yigit Yalin, [Ning Yu](https://ningyu1991.github.io/), and [Aysegul Dundar](http://www.cs.bilkent.edu.tr/~adundar/)
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Project Website](https://img.shields.io/badge/Project_website-red.svg)](https://three-bee.github.io/triplane_edit/) [![arXiv](https://img.shields.io/badge/arXiv-2404.03632-b31b1b.svg)](https://arxiv.org/abs/2404.03632)
+
 Generative Adversarial Networks (GANs) have emerged as powerful tools for high-quality image generation and real image editing by manipulating their latent spaces. Recent advancements in GANs include 3D-aware models such as EG3D, which feature efficient triplane-based architectures capable of reconstructing 3D geometry from single images. However, limited attention has been given to providing an integrated framework for 3D-aware, high-quality, reference-based image editing. This study addresses this gap by exploring and demonstrating the effectiveness of the triplane space for advanced reference-based edits. Our novel approach integrates encoding, automatic localization, spatial disentanglement of triplane features, and fusion learning to achieve the desired edits. Additionally, our framework demonstrates versatility and robustness across various domains, extending its effectiveness to animal face edits, partially stylized edits like cartoon faces, full-body clothing edits, and 360-degree head edits. Our method shows state-of-the-art performance over relevant latent direction, text, and image-guided 2D and 3D-aware diffusion and GAN methods, both qualitatively and quantitatively.
 
 ## 🛠️ Requirements and installation
