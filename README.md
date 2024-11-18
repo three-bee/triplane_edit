@@ -11,7 +11,8 @@ Generative Adversarial Networks (GANs) have emerged as powerful tools for high-q
 ## 🛠️ Requirements and installation
 * Make sure you have 64-bit Python 3.8, PyTorch 11.1 (or above), and CUDA 11.3 (or above).
 * Preferably, create a new environment via [conda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) or [venv](https://docs.python.org/3/library/venv.html) and activate the environment.
-* Install pip dependencies: ```pip install -r requirements.txt```
+* Clone repository: ```git clone --recursive https://github.com/three-bee/triplane_edit.git```
+* Install pip dependencies: ```cd ./triplane_edit && pip install -r requirements.txt```
 
 ## :scissors: Dataset preparation
 We follow [EG3D's dataset preparation](https://github.com/NVlabs/eg3d/?tab=readme-ov-file#preparing-datasets) for pose extraction and face alignment. Make sure that you **do not skip** the setup of [Deep3DFaceRecon_pytorch](https://github.com/sicxu/Deep3DFaceRecon_pytorch/tree/6ba3d22f84bf508f0dde002da8fff277196fef21).
