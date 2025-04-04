@@ -1,4 +1,4 @@
-# Reference-Based 3D-Aware Image Editing with Triplanes [CVPR 2025]
+# Reference-Based 3D-Aware Image Editing with Triplanes [CVPR 2025 Highlight]
 
 ![Teaser](./assets/teaser.png)
 
